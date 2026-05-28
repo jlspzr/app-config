@@ -1,1 +1,5 @@
-123456
+{
+  "version": "1.2.0",
+  "updateUrl": "https://example.com/jianmi-v1.2.0.apk",
+  "forceUpdate": true
+}
